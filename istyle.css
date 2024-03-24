@@ -1,0 +1,19 @@
+header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px 0 50px;
+    background-color: rgb(6, 23, 38);
+    color:aliceblue;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li {
+    padding-left: 50px;
+}
+
